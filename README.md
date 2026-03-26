@@ -17,6 +17,7 @@ React + TypeScript
 Tailwind CSS for styling
 React Router for navigation
 React Hooks and Context API for state management
+
 📁 Project Structure
 
 The project is organized into folders for assets, components, pages, API services, custom hooks, TypeScript types, context, utilities, and global styles. This makes the codebase clean, maintainable, and easy to scale.
