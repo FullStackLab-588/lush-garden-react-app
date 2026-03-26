@@ -4,7 +4,7 @@ Plant Store is a modern, responsive web application built with React, TypeScript
 
 🚀 Live Demo
 
-Live demo: https://lush‑garden‑react.netlify.app/
+Live demo: [https://lush-garden-react.netlify.app/]
 
 📌 Features
 Fully dynamic, API‑driven content
